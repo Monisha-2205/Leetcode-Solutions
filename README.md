@@ -43,11 +43,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Binary Search
 |  |
 | ------- |
