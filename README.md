@@ -16,6 +16,7 @@
 | [0009-palindrome-number](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0014-longest-common-prefix](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -96,4 +98,12 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0039-combination-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
