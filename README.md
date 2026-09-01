@@ -31,6 +31,7 @@
 | [0020-valid-parentheses](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
