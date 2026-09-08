@@ -39,6 +39,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0039-combination-sum) |
 ## Sliding Window
@@ -70,6 +71,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
@@ -130,4 +132,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Monisha-2205/Leetcode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
